@@ -6,4 +6,4 @@ Auburn University
 
 ## Professor
 
-Dr. Wei-Shinn "Jeff" Ku
+Dr. Tao Shu
